@@ -28,6 +28,7 @@
 
 * {
     box-sizing: border-box;
+    cursor:crosshair;
 }
 
 body {
@@ -70,6 +71,7 @@ a:visited {
 .issue {
     position: absolute;
     left: 0%;
+    cursor: cell;
 }
 
 
